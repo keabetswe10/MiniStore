@@ -1,5 +1,3 @@
-﻿
-
 
 Console.WriteLine("Welcometo kea's Mini Store");
 Console.WriteLine();
